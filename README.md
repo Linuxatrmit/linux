@@ -27,6 +27,7 @@ they include:
 ### Testing
   * Technical issues are expected for any remote deployment, and the accuracy of the documentation should always be carefully checked and verified, by automating a test suite to be automatically run before any project upgrade. These tests should cover all aspects of the project, from the technical issues, user's interface experience and the server infrastructure viability.
 ### Timeframe
+    The initial steps for the project were outlined, the core project will take abot 1 year in order to fullfill the project's goals.
 ### Risks
    Allowing your server to be granted remote access via *ssh* present major security risks.
    Only authorized users should be given access. Only via *ssh keys*, where password alone will not suffice. Their interaction with the server should be monitored and limited to provide a reasonable balance between security and accessibility.
