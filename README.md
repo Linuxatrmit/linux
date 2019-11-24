@@ -16,7 +16,7 @@ https://linuxatrmit.github.io/
 ### Topic
 An open-source training course and education resources, accessible for distance learning via online login. This will focus on the Operating System and its utilities.
 ### Motivation
-The main focus will be on the Linux operating system, remote login via ***ssh*** to the project's *Amazon Instance Image* (AMI) on **Amazon EC2**, where live and on-demand interaction with the target operating system and its utilities will be tested and visualized.
+The main focus will be on the Linux operating system, remote login via ***ssh*** to the project's *Amazon Machine Image* (AMI) on **Amazon EC2**, where live and on-demand interaction with the target operating system and its utilities will be tested and visualized.
 There is a considerable increase in software migration to the Linux Operating System, and while not long ago, you had to own a ***physical*** copy of the operating system in order to run it, this is not true with the advance of the cloud era, where remote login to a Linux distribution instance - launched on the cloud servers, allows one to get the full Linux experience without the cost and investment associated with its installation and maintenance.
 And while remote login may be slow at times, with the advance of *Windowes Subsystem for Linux* (**WSL**) by Microsoft, one can ***natively*** run and experience the full Linux ecosystem with all its useful utilities, out of the Windows OS, without the spending time to manually partition and dual booting to another Operating-System on the same machine.
 ### Landscape
@@ -46,8 +46,8 @@ they include:
   Week ***7*** |**Front-end** | 10 hours | ***Login interface***
   Week ***8*** |**Front-end** | 10 hours | ***Toolbars and footnote***
   Week ***9*** |**Front-end** | 10 hours | ***Cloud interface***
-  Week ***10*** |**Front-end** | 10 hours | ***Testing with the Cloud team***
-  Week ***11*** |**Front-end** | 10 hours | ***Interaction with the design team.***
+  Week ***10*** |**Front-end** | 10 hours | ***Interaction with the design team.***
+  Week ***11*** |**Front-end** | 10 hours | ***Testing with the Cloud team***
   Week ***12*** |**Front-end** | 10 hours | ***Social networks and affiliates links***
   Week ***13*** |**Front-end** | 10 hours | ***Forum initial setup***
   Week ***14*** |**Front-end** | 10 hours | ***Integration with the forum backend utilities***
@@ -63,8 +63,19 @@ they include:
   Week ***14*** |**Content** | 10 hours | ***Cron jobs, and automatic periodic backup plans.***
   Week ***15*** |**Content** | 10 hours | ***Version control systems.***
   Week ***16*** |**Content** | 10 hours | ***Final touches***
+  Week ***7*** |**Cloud** | 10 hours | ***Amazon Machine Image setup***
+  Week ***8*** |**Cloud** | 10 hours | ***Installation of visualizaion software on the instance.***
+  Week ***9*** |**Cloud** | 10 hours | ***Initial testing.***
+  Week ***10*** |**Cloud** | 10 hours | ***Key exchange policies.***
+  Week ***11*** |**Cloud** | 10 hours | ***Integration with the front-end developer***
+  Week ***12*** |**Cloud** | 10 hours | ***Cloud backend Database***
+  Week ***13*** |**Cloud** | 10 hours | ***Security guidelines.***
+  Week ***14*** |**Cloud** | 10 hours | ***Virtualization.***
+  Week ***15*** |**Cloud** | 10 hours | ***Static ip setup and domain name association.***
+  Week ***16*** |**Cloud** | 10 hours | ***Final touches***
+  Week ***1-16*** |**Graphic-design** | 10 hours | ***Images, background, logo***
 
-  Week 6 to week 16 | Will take a full-time work load of all 4 developers to complete this project: 10 hours per week, for a total of 10 weeks, to further develop the front-end of the website.  10 hours per week, for a total of 10 weeks, to test and develop the documentation of the project.  10 hours per week, for a total of 10 weeks, to setup the client's interface to remote server of the project's instance on Amazon EC2.  10 hours per week, for a total of 10 weeks, to adjust the aesthetic and professional look for the project.
+
 ### Risks
    Allowing your server to be granted remote access via *ssh* present major security risks.
    Only authorized users should be given access. Only via *ssh keys*, where password alone will not suffice. Their interaction with the server should be monitored and limited to provide a reasonable balance between security and accessibility.
