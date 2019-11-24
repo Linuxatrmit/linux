@@ -1,4 +1,9 @@
 
+# Team Profile
+### Team name
+LinuxDoc for Linux documentation.
+### Personal Information
+ ***Student #:*** S3266698
 # Project Description
 https://github.com/Linuxatrmit/linux
 https://linuxatrmit.github.io/
