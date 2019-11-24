@@ -48,7 +48,11 @@ they include:
 ### Group Processes and Communication
    Constant communication and cooperation should exist between the front-end developers providing the client interface to the project and the backend developers who program the underlying processes empowering this interaction.
 # Skills and Jobs
-1. Front-end developer
-2. System administrator.
-3. Cloud specialist.
-4. Graphic designer
+1. ***Front-end developer.***
+ * To develop an interactive and responsive client interface to the website, to be readily accessible, and dynamically configured to meed the client's interests.
+2. ***System administrator.***
+ * To develop and test the documentation and the visual effects for the utilities demonstrated.
+3. ***Cloud specialist.***
+ * To maintain the cloud instance, where on-demand processes will be launched to interact with a remote login client, to visualize the targeted system utilities.
+4. ***Graphic designer.***
+ * To maintain the aesthetic and professional image of the project.
