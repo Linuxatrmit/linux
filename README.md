@@ -56,3 +56,5 @@ they include:
  * To maintain the cloud instance, where on-demand processes will be launched to interact with a remote login client, to visualize the targeted system utilities.
 4. ***Graphic designer.***
  * To maintain the aesthetic and professional image of the project.
+# Group Reflection
+ The website needs new sections on networking and storage. The client for the cloud instance should be published, where users are given authorized access to the remote server after initial authentication have been established. The github page reflects the very nature of development so far.
