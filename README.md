@@ -14,14 +14,14 @@ https://linuxatrmit.github.io/
 # Project Description
 ## Overview
 ### Topic
-An open-source Operating-System and tools - training course and education resources, accessible for distance learning via online login.
+An open-source training course and education resources, accessible for distance learning via online login. This will focus on the Operating System and its utilities.
 ### Motivation
-Main focus will be on the Linux operating system, remote login via ssh to the project's *Amazon Instance Image* (AMI) on **Amazon EC2**, where live and on-demand interaction with the target operating system and its utilities will be tested and visualized.
-There is a considerable increase in software migration to the Linux Operating System, and while not long ago, you had to own a physical copy of the operating system in order to run it, with the advance of the cloud era, remote login to a Linux distribution instance launched on the cloud servers, allows one to get the full Linux experience without the cost and investment associated with its installation and maintenance.
-And while remote login may be slow at times, with the advance of *Windowes Subsystem for Linux* (**WSL**) by Microsoft, one can natively run and experience the full Linux ecosystem with all its useful utilities, out of the Windows OS, without the spending time to manually partition and dual booting to another Operating-System on the same machine.
+The main focus will be on the Linux operating system, remote login via ***ssh*** to the project's *Amazon Instance Image* (AMI) on **Amazon EC2**, where live and on-demand interaction with the target operating system and its utilities will be tested and visualized.
+There is a considerable increase in software migration to the Linux Operating System, and while not long ago, you had to own a ***physical*** copy of the operating system in order to run it, this is not true with the advance of the cloud era, where remote login to a Linux distribution instance - launched on the cloud servers, allows one to get the full Linux experience without the cost and investment associated with its installation and maintenance.
+And while remote login may be slow at times, with the advance of *Windowes Subsystem for Linux* (**WSL**) by Microsoft, one can ***natively*** run and experience the full Linux ecosystem with all its useful utilities, out of the Windows OS, without the spending time to manually partition and dual booting to another Operating-System on the same machine.
 ### Landscape
 There is no shortage of Linux documentation online, from books to online-documentation, dedicated YouTube channels, certification institutes and university courses, as well as the open-source nature of its ecosystem that invites everybody to download the source-code, modify, fix and test the results.
-Such it may seem like a saturated market, but considering the huge demand, and endless topics with enormous complexities and ever changing landscape where the dynamic nature of the open-source community keeps changing trends and calls for endless training and update resources.
+Though it may seem like a saturated market, consider the huge demand, and endless topics with enormous complexities and ever changing landscape where the dynamic nature of the open-source community keeps changing trends and calls for endless training and update resources.
 ## Detailed Description
 ### Aims
 To provide an interactive and rich environment to be readily accessible online, for Linux Documentation.
