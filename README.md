@@ -43,15 +43,15 @@ they include:
  Date  | Developer| Hours| Details
  ------| ------- | ----- | -----
   First 6 weeks |ALL|36 hours | Project initial outline
-  Week 7 |Front-end | 10 hours |
-  Week 7 |Front-end | 10 hours |
-  Week 7 |Front-end | 10 hours |
-  Week 7 |Front-end | 10 hours |
-  Week 7 |Front-end | 10 hours |
-  Week 7 |Front-end | 10 hours |
-  Week 7 |Front-end | 10 hours |
-  Week 7 |Front-end | 10 hours |
-  Week 7 |Front-end | 10 hours |
+  Week 7 |Front-end | 10 hours | Login interface
+  Week 7 |Front-end | 10 hours | Toolbars and footnote
+  Week 7 |Front-end | 10 hours | Cloud interface
+  Week 7 |Front-end | 10 hours | Testing with the Cloud team
+  Week 7 |Front-end | 10 hours | Interaction with the design team.
+  Week 7 |Front-end | 10 hours | Social networks and affiliates links
+  Week 7 |Front-end | 10 hours | Forum initial setup
+  Week 7 |Front-end | 10 hours | Integration to the forum backend utilities, search facility.
+  Week 7 |Front-end | 10 hours | Final touches
 
   Week 6 to week 16 | Will take a full-time work load of all 4 developers to complete this project: 10 hours per week, for a total of 10 weeks, to further develop the front-end of the website.  10 hours per week, for a total of 10 weeks, to test and develop the documentation of the project.  10 hours per week, for a total of 10 weeks, to setup the client's interface to remote server of the project's instance on Amazon EC2.  10 hours per week, for a total of 10 weeks, to adjust the aesthetic and professional look for the project.
 ### Risks
