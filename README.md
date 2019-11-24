@@ -53,7 +53,6 @@ they include:
   Week 14 |Front-end | 10 hours | Integration to the forum backend utilities
   Week 15 |Front-end | 10 hours | Search toolbars and results page
   Week 16 |Front-end | 10 hours | Final touches
-  First 6 weeks |ALL|36 hours | Project initial outline
   Week 7 |Content | 10 hours | Linux kernel Compiling
   Week 8 |Content | 10 hours | Modules vs built-in drivers.
   Week 9 |Content | 10 hours | ssh login, key exchange and encryption types.
