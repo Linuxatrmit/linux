@@ -4,9 +4,14 @@
 LinuxDoc for Linux documentation.
 ### Personal Information
  ***Student #:*** S3266698
-# Project Description
+### Career Plans
+As Linux becomes a vital component of any developer's job, or networking engineer, it should benefit everybody to gain a deep understanding of the Linux ecosystem.
+# Tools
+### The Group's Github pages
 https://github.com/Linuxatrmit/linux
+### The Group's website
 https://linuxatrmit.github.io/
+# Project Description
 ## Overview
 ### Topic
 An open-source Operating-System and tools - training course and education resources, accessible for distance learning via online login.
