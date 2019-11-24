@@ -73,7 +73,7 @@ they include:
   Week ***14*** |**Cloud** | 10 hours | ***Virtualization.***
   Week ***15*** |**Cloud** | 10 hours | ***Static ip setup and domain name association.***
   Week ***16*** |**Cloud** | 10 hours | ***Final touches***
-  Week ***1-16*** |**Graphic-design** | 10 hours | ***Images, background, logo***
+  Week ***6-16*** |**Graphic-design** | 10*10 hours | ***Images, background, logo***
 
 
 ### Risks
