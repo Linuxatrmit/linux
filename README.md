@@ -53,16 +53,16 @@ they include:
   Week ***14*** |Front-end | 10 hours | Integration to the forum backend utilities
   Week ***15*** |Front-end | 10 hours | Search toolbars and results page
   Week ***16*** |Front-end | 10 hours | Final touches
-  Week ***7*** |Content | 10 hours | Linux kernel Compiling
-  Week ***8*** |Content | 10 hours | Modules vs built-in drivers.
-  Week ***9*** |Content | 10 hours | ssh login, key exchange and encryption types.
-  Week ***10*** |Content | 10 hours | Networking basics.
-  Week ***11*** |Content | 10 hours | iptables, port forwarding and packet filters
-  Week ***12*** |Content | 10 hours | Scripting: introduction to
-  Week ***13*** |Content | 10 hours | Security.
-  Week ***14*** |Content | 10 hours | Cron jobs, and automatic periodic backup plans.
-  Week ***15*** |Content | 10 hours | Version control systems.
-  Week ***16*** |Content | 10 hours | Final touches
+  Week ***7*** |***Content*** | 10 hours | Linux kernel Compiling
+  Week ***8*** |***Content*** | 10 hours | Modules vs built-in drivers.
+  Week ***9*** |***Content*** | 10 hours | ssh login, key exchange and encryption types.
+  Week ***10*** |***Content*** | 10 hours | Networking basics.
+  Week ***11*** |***Content*** | 10 hours | iptables, port forwarding and packet filters
+  Week ***12*** |***Content*** | 10 hours | Scripting: introduction to
+  Week ***13*** |***Content*** | 10 hours | Security.
+  Week ***14*** |***Content*** | 10 hours | Cron jobs, and automatic periodic backup plans.
+  Week ***15*** |***Content*** | 10 hours | Version control systems.
+  Week ***16*** |***Content*** | 10 hours | Final touches
 
   Week 6 to week 16 | Will take a full-time work load of all 4 developers to complete this project: 10 hours per week, for a total of 10 weeks, to further develop the front-end of the website.  10 hours per week, for a total of 10 weeks, to test and develop the documentation of the project.  10 hours per week, for a total of 10 weeks, to setup the client's interface to remote server of the project's instance on Amazon EC2.  10 hours per week, for a total of 10 weeks, to adjust the aesthetic and professional look for the project.
 ### Risks
