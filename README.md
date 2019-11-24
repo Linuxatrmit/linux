@@ -42,7 +42,7 @@ they include:
 ### Timeframe
  Date  | Developer| Hours| Details
  ------| ------- | ----- | -----
-  First ***6*** weeks |**ALL**|36 hours | Project initial outline
+  First ***6*** weeks |**ALL**|36 hours | *Project initial outline*
   Week ***7*** |**Front-end** | 10 hours | Login interface
   Week ***8*** |**Front-end** | 10 hours | Toolbars and footnote
   Week ***9*** |**Front-end** | 10 hours | Cloud interface
