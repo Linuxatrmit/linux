@@ -42,17 +42,17 @@ they include:
 ### Timeframe
  Date  | Developer| Hours| Details
  ------| ------- | ----- | -----
-  First ***6*** weeks |ALL|36 hours | Project initial outline
-  Week ***7*** |Front-end | 10 hours | Login interface
-  Week ***8*** |Front-end | 10 hours | Toolbars and footnote
-  Week ***9*** |Front-end | 10 hours | Cloud interface
-  Week ***10*** |Front-end | 10 hours | Testing with the Cloud team
-  Week ***11*** |Front-end | 10 hours | Interaction with the design team.
-  Week ***12*** |Front-end | 10 hours | Social networks and affiliates links
-  Week ***13*** |Front-end | 10 hours | Forum initial setup
-  Week ***14*** |Front-end | 10 hours | Integration to the forum backend utilities
-  Week ***15*** |Front-end | 10 hours | Search toolbars and results page
-  Week ***16*** |Front-end | 10 hours | Final touches
+  First ***6*** weeks |**ALL**|36 hours | Project initial outline
+  Week ***7*** |**Front-end** | 10 hours | Login interface
+  Week ***8*** |**Front-end** | 10 hours | Toolbars and footnote
+  Week ***9*** |**Front-end** | 10 hours | Cloud interface
+  Week ***10*** |**Front-end** | 10 hours | Testing with the Cloud team
+  Week ***11*** |**Front-end** | 10 hours | Interaction with the design team.
+  Week ***12*** |**Front-end** | 10 hours | Social networks and affiliates links
+  Week ***13*** |**Front-end** | 10 hours | Forum initial setup
+  Week ***14*** |**Front-end** | 10 hours | Integration to the forum backend utilities
+  Week ***15*** |**Front-end** | 10 hours | Search toolbars and results page
+  Week ***16*** |**Front-end** | 10 hours | Final touches
   Week ***7*** |**Content** | 10 hours | Linux kernel Compiling
   Week ***8*** |**Content** | 10 hours | Modules vs built-in drivers.
   Week ***9*** |**Content** | 10 hours | ssh login, key exchange and encryption types.
