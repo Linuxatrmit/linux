@@ -43,7 +43,7 @@ they include:
   Time | Description
  ------| -------
   First 6 weeks |About 36 hours per person, for 4 developers
-  Week 6 to week 16 | Will take a full-time work load of all 4 developers to complete this project <br>10 hours per week, for a total of 10 weeks, to further develop the front-end of the website.  10 hours per week, for a total of 10 weeks, to test and develop the documentation of the project.  10 hours per week, for a total of 10 weeks, to setup the client's interface to remote server of the project's instance on Amazon EC2.  10 hours per week, for a total of 10 weeks, to adjust the aesthetic and professional look for the project.
+  Week 6 to week 16 | Will take a full-time work load of all 4 developers to complete this project: * 10 hours per week, for a total of 10 weeks, to further develop the front-end of the website.  10 hours per week, for a total of 10 weeks, to test and develop the documentation of the project.  10 hours per week, for a total of 10 weeks, to setup the client's interface to remote server of the project's instance on Amazon EC2.  10 hours per week, for a total of 10 weeks, to adjust the aesthetic and professional look for the project.
 ### Risks
    Allowing your server to be granted remote access via *ssh* present major security risks.
    Only authorized users should be given access. Only via *ssh keys*, where password alone will not suffice. Their interaction with the server should be monitored and limited to provide a reasonable balance between security and accessibility.
