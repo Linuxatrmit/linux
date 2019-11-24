@@ -47,3 +47,8 @@ they include:
 
 ### Group Processes and Communication
    Constant communication and cooperation should exist between the front-end developers providing the client interface to the project and the backend developers who program the underlying processes empowering this interaction.
+# Skills and Jobs
+1. Front-end developer
+2. System administrator.
+3. Cloud specialist.
+4. Graphic designer
